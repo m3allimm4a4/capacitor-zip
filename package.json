@@ -1,7 +1,7 @@
 {
   "name": "capacitor-zip",
-  "version": "0.0.1",
-  "description": "Zip and Unzip files on android. Based on Zip4j",
+  "version": "1.0.0",
+  "description": "Zip and Unzip files on android. Based on Zip4j library",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -13,7 +13,7 @@
     "ios/Plugin/",
     "CapacitorZip.podspec"
   ],
-  "author": "Bechara",
+  "author": "Bechara Rammouz",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -22,10 +22,14 @@
   "bugs": {
     "url": "https://github.com/m3allimm4a4/capacitor-zip/issues"
   },
+  "homepage": "https://github.com/m3allimm4a4/capacitor-zip#readme",
   "keywords": [
     "capacitor",
     "plugin",
-    "native"
+    "native",
+    "zip",
+    "unzip",
+    "ionic"
   ],
   "scripts": {
     "verify": "npm run verify:ios && npm run verify:android && npm run verify:web",
