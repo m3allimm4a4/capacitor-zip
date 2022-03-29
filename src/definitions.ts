@@ -13,6 +13,9 @@ export interface UnzipResult {
   uri?: string;
 }
 
+/*
+ * @enum {string}
+ */
 export enum ZipErrorCodes {
   SUCCESS = 'SUCCESS',
   NO_SOURCE_SPECIFIED = 'NO_SOURCE_SPECIFIED',
