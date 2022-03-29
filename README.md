@@ -1,4 +1,6 @@
-# capacitor-zip
+# capacitor-zip [(npm)](https://www.npmjs.com/package/capacitor-zip-plugin)
+
+
 
 Work in progress. Zip and Unzip files on android. Based on Zip4j library. Zip functionnality still not implemented only unzip works for now. Tested on capacitor v3, not tested on older capacitor versions.
 
