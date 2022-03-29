@@ -1,6 +1,6 @@
 {
   "name": "capacitor-zip-plugin",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Zip and Unzip files on android. Tested on cap v3. Based on Zip4j library.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
