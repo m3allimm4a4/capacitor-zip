@@ -9,6 +9,13 @@ npm install capacitor-zip
 npx cap sync
 ```
 
+## Android permission
+Make sure to add the following permissions in the application android manifest.xml
+```xml
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+```
+
 ## API
 
 <docgen-index>
